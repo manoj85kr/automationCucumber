@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel" parallel="Methods" thread-count="1">
+    <test name="Cucumber Tests">
+        <classes>
+            <class name="com.test.Runners.TestNGRunner"/>
+        </classes>
+    </test>
+</suite>

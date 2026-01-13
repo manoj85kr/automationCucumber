@@ -1,0 +1,10 @@
+{
+  "valid":{
+    "username":"manojranganathanofficial@gmail.com",
+    "password":"Madan123$"
+  },
+  "invalid":{
+    "username":"wrong@mail.com",
+    "password":"wrongpass"
+  }
+}

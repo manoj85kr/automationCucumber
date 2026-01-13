@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# TestNG / Selenium reports
+test-output/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled files
+*.class
